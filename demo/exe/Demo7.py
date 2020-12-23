@@ -7,7 +7,6 @@
 读取文本数据到list和dict
 """
 
-import os
 from util import ReadData
 
 if __name__ == '__main__':
